@@ -1,1 +1,3 @@
-# snark-graphique.github.io
+<p>
+  Nothing to see here.
+</p>
