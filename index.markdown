@@ -31,9 +31,6 @@ $$
 
 
 
-<blockquote id="blockquote-1" style="background=""> $latex$ </blockquote>
+<blockquote class="blockquote-1"> $latex$ </blockquote>
 
-<script>
-document.querySelectorAll("blockquote").background="rgb(225,225,255)";
-document.querySelectorAll("#blockquote-1").borderLeft="0.25em solid rgb(225,225,255)";
-</script>
+<link rel="stylesheet" href="https://github.com/snark-graphique/snark-graphique.github.io/blob/main/mystyles.css" type="text/css">
