@@ -1,10 +1,6 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+fjwofjwoifjw
 
-layout: home
----
-jwofjwoifjw
+
 
 Hey, this is a new line.
 
@@ -33,7 +29,29 @@ $$
 
 <blockquote id="blockquote-1" style="background=""> $latex$ </blockquote>
 
+
+
+
+
+
+
+
+
 <script>
 document.querySelectorAll("blockquote").background="rgb(225,225,255)";
 document.querySelectorAll("#blockquote-1").borderLeft="0.25em solid rgb(225,225,255)";
 </script>
+
+
+
+</script>
+
+
+
+
+
+[Google](https://www.google.com)
+
+![](https://marktext.github.io/website/imgs/drink_coffee.image--assets.svg)
+
+
