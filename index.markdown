@@ -33,4 +33,4 @@ $$
 
 <blockquote class="blockquote-1"> $latex$ </blockquote>
 
-<link rel="stylesheet" href="https://github.com/snark-graphique/snark-graphique.github.io/blob/main/mystyles.css" type="text/css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/snark-graphique/snark-graphique.github.io/main/mystyles.css" type="text/css">
