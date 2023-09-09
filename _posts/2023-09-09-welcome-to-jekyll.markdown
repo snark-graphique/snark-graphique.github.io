@@ -4,6 +4,13 @@ title:  "Welcome to Jekyll!"
 date:   2023-09-09 16:59:33 +0800
 categories: jekyll update
 ---
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
+Update 1.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -27,3 +34,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+Let $$\mu$$ be a $$\sigma$$-finite measure on $$X$$. 
+Suppose $$\lambda$$ is a measure on $$X$$ that is absolutely 
+continuous with respect to $$\mu$$. 
+Then, there exists $$f \in L^1(\mu)$$ such that 
+\\[
+  \lambda(E) = \int_E f \,d\mu
+\\]
+for all measurable sets $$E$$.
