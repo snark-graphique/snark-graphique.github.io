@@ -1,0 +1,36 @@
+---
+layout: post
+title: Intensive Training for 2022 Myanmar IMO Team (Combinatorics)
+---
+The name is self-explanatory. The content is just common problem solving techniques 
+in olymmpiad combinatoircs such as the use of invariants, repeat-until-stuck algorithms, 
+double counting and basic graph theory.
+
+### Lecture Videos and Slides
+- *Lecture 1 - Monovariants:* [slides pdf](/files/teaching/imo-2022-training/lecture01-monovariants.pdf), [video link](https://youtu.be/MMslUAdO1ps)
+- *Lecture 2 - Invariants:* [slides pdf](/files/teaching/imo-2022-training/lecture02-invariants.pdf), [video link](https://youtu.be/tFjuCQDhdY8)
+- *Lecture 3 - Parity:* [slides pdf](/files/teaching/imo-2022-training/lecture03-alternating-variants.pdf), [video link](https://youtu.be/remAVxoYrWg)
+- *Lecture 4 - Induction:* [slides pdf](/files/teaching/imo-2022-training/lecture04-induction.pdf), [video link](https://youtu.be/2UtuWiN7Dm4)
+- *Lecture 5 - Greedy Algorithms and Repeat-Until-Stuck:* [slides pdf](/files/teaching/imo-2022-training/lecture05-greedy-and-rust.pdf), [video link](https://youtu.be/oFWsh515IFo)
+- *Lecture 6 - Double Counting:* [slides pdf](/files/teaching/imo-2022-training/lecture06-double-count.pdf), [video link](https://youtu.be/oA8c-gx3Rz0)
+- *Lecture 7 - Polyhedron Formula :* [slides pdf](/files/teaching/imo-2022-training/lecture07-polyhedron-formula.pdf), [video link](https://youtu.be/cz_ejwWZT6Q)
+- *Lecture 8 - Counting in Graphs:* [slides pdf](/files/teaching/imo-2022-training/lecture08-graph-count.pdf), [video link](https://youtu.be/VjXtQvF1eCU)
+- *Lecture 9 - Injections and Bijections:* [slides pdf](/files/teaching/imo-2022-training/lecture09-inject-biject.pdf), [video link](https://youtu.be/76JEmdlDykM)
+- *Lecture 10 - Pigeonhole Principle:* [slides pdf](/files/teaching/imo-2022-training/lecture10-pigeonhole.pdf), [video link](https://youtu.be/inic2c5qegk)
+- *Lecture 11 - Discrete Continuity and Infinite Descent:* [slides pdf](/files/teaching/imo-2022-training/lecture11-continuity-descent.pdf), [video link](https://youtu.be/7xjHeB4NE3s)
+- *Lecture 12 - Colorings and WLOG:* [slides pdf](/files/teaching/imo-2022-training/lecture12-colouring-wlog.pdf), [video link](https://youtu.be/pOOrmEtSvNg)
+- *Lecture 13 - Combinatorial Games:* [slides pdf](/files/teaching/imo-2022-training/lecture13-games.pdf), [video link](https://youtu.be/rNsn4ArL0YM)
+- *Lecture 14 - Solutions to Mock Test and Problem Solving Philosophy:* [slides pdf](/files/teaching/imo-2022-training/lecture14-solutions-and-philosophy.pdf), video not available
+
+### Problem Sets
+- *Problem Set 1:* [pdf](/files/teaching/imo-2022-training/problemset01.pdf), [solutions](/files/teaching/imo-2022-training/solution01.pdf)
+- *Problem Set 2:* [pdf](/files/teaching/imo-2022-training/problemset02.pdf), [solutions](/files/teaching/imo-2022-training/solution02.pdf)
+- *Problem Set 3:* [pdf](/files/teaching/imo-2022-training/problemset03.pdf), [solutions](/files/teaching/imo-2022-training/solution03.pdf)
+- *Problem Set 4:* [pdf](/files/teaching/imo-2022-training/problemset04.pdf)
+- *Problem Set 5:* [pdf](/files/teaching/imo-2022-training/problemset05.pdf), [solutions](/files/teaching/imo-2022-training/solution05.pdf)
+- *Problem Set 6:* [pdf](/files/teaching/imo-2022-training/problemset06.pdf)
+- *Problem Set 7:* [pdf](/files/teaching/imo-2022-training/problemset07.pdf)
+
+### Mock Test 
+- *Questions:* [pdf](/files/teaching/imo-2022-training/mock.pdf), [AoPS link](https://artofproblemsolving.com/community/c3372590_2023_myanmar_imo_training)
+- *Solutions to Combinatorics Problems:* [pdf](/files/teaching/imo-2022-training/mock_combi_solutions.pdf)

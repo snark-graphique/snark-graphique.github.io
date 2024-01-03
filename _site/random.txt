@@ -1,0 +1,16 @@
+<div class="theorem-box">
+  Let $\lambda$ be a signed measure that is absolutely continuous 
+  with respect to a $\sigma$-finite positive measure $\mu$. 
+  Then, there exists a function $f \in L^1(\mu)$ such that 
+  \[
+    \lambda(E) = \int_E f \,d\mu
+  \]
+  for all $\mu$-measurable sets $E$.
+</div>
+Let $\lambda$ be a signed measure that is absolutely continuous 
+with respect to a $\sigma$-finite positive measure $\mu$. 
+Then, there exists a function $f \in L^1(\mu)$ such that 
+\\[
+  \lambda(E) = \int_E f \,d\mu
+\\]
+for all $\mu$-measurable sets $E$.

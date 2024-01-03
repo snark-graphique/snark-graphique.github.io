@@ -1,7 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-09T19:07:08+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hein Thant Aung</title><subtitle>Homepage</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-09-09T16:59:33+08:00</published><updated>2023-09-09T16:59:33+08:00</updated><id>http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-04T02:25:16+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hein Thant Aung</title><subtitle>Homepage</subtitle><entry><title type="html">MSM December Training (Combinatorics)</title><link href="http://localhost:4000/2023/12/28/msm-december-training.html" rel="alternate" type="text/html" title="MSM December Training (Combinatorics)" /><published>2023-12-28T00:00:00+08:00</published><updated>2023-12-28T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/28/msm-december-training</id><content type="html" xml:base="http://localhost:4000/2023/12/28/msm-december-training.html">&lt;p&gt;
+    Listed below are courses that I have taught during olympiad trainings organzied 
+    by the mathematical society of Myanmar and short trainings given by the Euclidiad 
+    mathematics organization. All the slides are in English, but notes and videos 
+    are mostly in Burmese. I will be grateful to receive feedbacks and suggestions 
+    regarding my teaching, lecture-plans, typsetting, and basically everything teaching-oriented. 
+&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;b&gt;Lecture notes and slides&lt;/b&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;i&gt;Recurrence Relations:&lt;/i&gt; 
+        &lt;a href=&quot;/files/teaching/msm-december-training/MSMdec_recurrence.pdf&quot;&gt;pdf&lt;/a&gt; in Burmese, &lt;a href=&quot;/files/teaching/msm-december-training/MSMdec_recurrence_slides.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/msm-december-training/01_recurrence_embedded.pptx&quot;&gt;slides ppt&lt;/a&gt;&lt;br /&gt;
+        Covers the idea of recursion in combinatorics such as setting up recurrences, chromatic polynomials and recursive algorithms 
+        such as merge-sort.
+        &lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;Bijective Counting:&lt;/i&gt; 
+        &lt;a href=&quot;/files/teaching/msm-december-training/MSMdec_bijection.pdf&quot;&gt;pdf&lt;/a&gt; in Burmese (unfinished), &lt;a href=&quot;/files/teaching/msm-december-training/MSMdec_bijection_slides.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/msm-december-training/02_bijection_embedded.pptx&quot;&gt;slides ppt&lt;/a&gt;&lt;br /&gt;
+        Covers the usage of bijections to solve seemingly complicated counting problems and proving combinatorial identities using counting.
+        &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;b&gt;Videos:&lt;/b&gt; 
+        &lt;a href=&quot;https://youtu.be/xVXA8dcjMiI&quot;&gt;Day 1&lt;/a&gt;, 
+        &lt;a href=&quot;https://youtu.be/8k9TS9lvhEk&quot;&gt;Day 2&lt;/a&gt;, 
+        &lt;a href=&quot;https://youtu.be/8XtcyaFFrRg&quot;&gt;Day 3&lt;/a&gt;.
+    &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Listed below are courses that I have taught during olympiad trainings organzied by the mathematical society of Myanmar and short trainings given by the Euclidiad mathematics organization. All the slides are in English, but notes and videos are mostly in Burmese. I will be grateful to receive feedbacks and suggestions regarding my teaching, lecture-plans, typsetting, and basically everything teaching-oriented.</summary></entry><entry><title type="html">Testing Stuff</title><link href="http://localhost:4000/2023/09/09/testing.html" rel="alternate" type="text/html" title="Testing Stuff" /><published>2023-09-09T16:59:33+08:00</published><updated>2023-09-09T16:59:33+08:00</updated><id>http://localhost:4000/2023/09/09/testing</id><content type="html" xml:base="http://localhost:4000/2023/09/09/testing.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
 &lt;/script&gt;
 
-&lt;p&gt;Update 2.&lt;/p&gt;
+&lt;p&gt;Let \(\mu\) be a \(\sigma\)-finite measure on \(X\). 
+Suppose \(\lambda\) is a measure on $X$ that is absolutely 
+continuous with respect to \(\mu\). 
+Then, there exists \(f \in L^1(\mu)\) such that 
+\[
+\lambda(E) = \int_E f \,d\mu
+\]
+for all measurable sets \(E\).&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-09-09T16:59:33+08:00</published><updated>2023-09-09T16:59:33+08:00</updated><id>http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/09/09/welcome-to-jekyll.html">&lt;p&gt;Update 2.&lt;/p&gt;
 
 &lt;p&gt;မြန်မာလို ရေးလို့ရသလား။ မြန်မာနဲ့သင်္ချာ \(\varepsilon &amp;gt; \frac{3\pi\varepsilon_0}{4M}\)။&lt;/p&gt;
 
@@ -30,4 +66,68 @@ Then, there exists \(f \in L^1(\mu)\) such that
 \[
   \lambda(E) = \int_E f \,d\mu
 \]
-for all measurable sets \(E\).&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
+for all measurable sets \(E\).&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Update 2.</summary></entry><entry><title type="html">Euclidiad Level 1 (Junior) Short Course in Combinatorics</title><link href="http://localhost:4000/2022/07/01/euclidiad-one-combi.html" rel="alternate" type="text/html" title="Euclidiad Level 1 (Junior) Short Course in Combinatorics" /><published>2022-07-01T00:00:00+08:00</published><updated>2022-07-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/07/01/euclidiad-one-combi</id><content type="html" xml:base="http://localhost:4000/2022/07/01/euclidiad-one-combi.html">&lt;p&gt;A very basic course on elementary counting oriented towards entry level olympiads 
+such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers standard material 
+in elementary counting such as multiplication and addition principles in counting, permutations 
+and combinations considered with or without repetitions. However, the problems are 
+oriented more towards problem-solving rather than high school material.&lt;/p&gt;
+
+&lt;h3 id=&quot;lecture-slides-and-videos&quot;&gt;Lecture Slides and Videos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 1 - Basic Counting Principles:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson1%20-%20basic%20principles.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 1 - Lesson 1 on Steroids:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video1%20-%20lesson%201%20on%20steroids.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/Qalo2BRBKP0&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 2 - Permutations and Factorials:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson2%20-%20permutation%20factorial.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 2 - Fun Puzzles in Combinatorics:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video2%20-%20fun%20puzzles.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/OoBCnDmI7mo&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 3 - Combinations:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson3%20-%20combination.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 3 - Overcounting and Circular Permutations:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video3%20-%20overcounting%20circular.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/nKdbldQsfDk&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 4 - Permutations with Repetitions:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson4%20-%20repetitions.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 4 - Stars and Bars Trick, Combinatorial Identities:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video4%20-%20starsbars%20and%20identities.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=p-iVmI1rU9k&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 5 - Probability:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson5%20-%20probability.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 5 - Review:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video5%20-%20review.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/V1gmVRIeILo&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;assignments&quot;&gt;Assignments&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Homework 1:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/mjFfSJ3KiKfueBtMA&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 2:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/T4EJLgyvvDQDVnbg8&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 3:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/zoXQMXYbCynT1XPXA&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 4:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/m7WcmbTew6VE7ZQD8&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 5:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/2oscwCNTaWQuoMQ98&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">A very basic course on elementary counting oriented towards entry level olympiads such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers standard material in elementary counting such as multiplication and addition principles in counting, permutations and combinations considered with or without repetitions. However, the problems are oriented more towards problem-solving rather than high school material.</summary></entry><entry><title type="html">Intensive Training for 2022 Myanmar IMO Team (Combinatorics)</title><link href="http://localhost:4000/2022/06/30/imo-2022-training.html" rel="alternate" type="text/html" title="Intensive Training for 2022 Myanmar IMO Team (Combinatorics)" /><published>2022-06-30T00:00:00+08:00</published><updated>2022-06-30T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/30/imo-2022-training</id><content type="html" xml:base="http://localhost:4000/2022/06/30/imo-2022-training.html">&lt;p&gt;The name is self-explanatory. The content is just common problem solving techniques 
+in olymmpiad combinatoircs such as the use of invariants, repeat-until-stuck algorithms, 
+double counting and basic graph theory.&lt;/p&gt;
+
+&lt;h3 id=&quot;lecture-videos-and-slides&quot;&gt;Lecture Videos and Slides&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 1 - Monovariants:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture01-monovariants.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/MMslUAdO1ps&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 2 - Invariants:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture02-invariants.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/tFjuCQDhdY8&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 3 - Parity:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture03-alternating-variants.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/remAVxoYrWg&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 4 - Induction:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture04-induction.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/2UtuWiN7Dm4&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 5 - Greedy Algorithms and Repeat-Until-Stuck:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture05-greedy-and-rust.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/oFWsh515IFo&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 6 - Double Counting:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture06-double-count.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/oA8c-gx3Rz0&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 7 - Polyhedron Formula :&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture07-polyhedron-formula.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/cz_ejwWZT6Q&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 8 - Counting in Graphs:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture08-graph-count.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/VjXtQvF1eCU&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 9 - Injections and Bijections:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture09-inject-biject.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/76JEmdlDykM&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 10 - Pigeonhole Principle:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture10-pigeonhole.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/inic2c5qegk&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 11 - Discrete Continuity and Infinite Descent:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture11-continuity-descent.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/7xjHeB4NE3s&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 12 - Colorings and WLOG:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture12-colouring-wlog.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/pOOrmEtSvNg&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 13 - Combinatorial Games:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture13-games.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/rNsn4ArL0YM&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lecture 14 - Solutions to Mock Test and Problem Solving Philosophy:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/lecture14-solutions-and-philosophy.pdf&quot;&gt;slides pdf&lt;/a&gt;, video not available&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;problem-sets&quot;&gt;Problem Sets&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 1:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset01.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/imo-2022-training/solution01.pdf&quot;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 2:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset02.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/imo-2022-training/solution02.pdf&quot;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 3:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset03.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/imo-2022-training/solution03.pdf&quot;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 4:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset04.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 5:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset05.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;/files/teaching/imo-2022-training/solution05.pdf&quot;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 6:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset06.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Problem Set 7:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/problemset07.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mock-test&quot;&gt;Mock Test&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Questions:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/mock.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;https://artofproblemsolving.com/community/c3372590_2023_myanmar_imo_training&quot;&gt;AoPS link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Solutions to Combinatorics Problems:&lt;/em&gt; &lt;a href=&quot;/files/teaching/imo-2022-training/mock_combi_solutions.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The name is self-explanatory. The content is just common problem solving techniques in olymmpiad combinatoircs such as the use of invariants, repeat-until-stuck algorithms, double counting and basic graph theory.</summary></entry></feed>

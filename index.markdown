@@ -1,36 +1,28 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# width:325px;height:454px;
 
-layout: home
+layout: mainpage
 ---
-jwofjwoifjw
+<div class="introduction">
+  <div class="profile-pic">
+    <img src="/assets/images/HTA1.jpeg" width="300px">
+  </div>
+  <div>
+  <hr>
+  <br>
+    I am a year 3 undergrad at the Chinese University of Hong Kong (CUHK) studying mathematics. 
+    I am currently hooked into extremal combinatorics, and applications of analysis in combinatorics. 
+    Please find my CV <a href="/files/heinta_CV.pdf"> here</a>.
+    <br>
 
-Hey, this is a new line.
+    I am also into olympiad math, and I sure do enjoy teaching 
+    young students problem-solving. 
+    Outside of math, I enjoy wandering around the worlds of single-player 
+    video games.
+  <br><br>
+  <hr>
 
-Is this also a new line?
-
-The following is a list:
-
-- pp
-  
-  - ppp
-
-
-
-$latex\ is \ supported!! haha$
-
-
-
-$$
-\begin{equation}
-   akaak=??
-
-\end{equation}
-$$
-
-
-
-<blockquote class="blockquote-1"> $latex$ </blockquote>
-
-<link rel="stylesheet" href="https://raw.githubusercontent.com/snark-graphique/snark-graphique.github.io/main/mystyles.css" type="text/css">
+  </div>
+</div>

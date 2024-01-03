@@ -4,10 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2023-09-09 16:59:33 +0800
 categories: jekyll update
 ---
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
 
 Update 2.
 
