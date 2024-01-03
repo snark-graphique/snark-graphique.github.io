@@ -24,6 +24,8 @@ The following are some of the notes I have written for my presentations during t
 - *Three Constructions of Capsets in $(\mathbb{Z}/4\mathbb{Z})^n$* [pdf](/files/projects/urop/z4n-proof.pdf)
 - *Final Presentation* [pdf](/files/projects/urop/urop-presentation.pdf)
 
+<hr><br>
+
 ### Reading Project on Ergodic Theory (ongoing)
 *Supervisor - [Prof. Feng Dejun](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng)*  
   
@@ -32,11 +34,16 @@ proof of Szemerédi's theorem for AP-free sets in $\mathbb{Z}$.
 With my current interest in exploring more analysis, I am reading through [*Ergodic Theory: with a view towards Number Theory*](https://link.springer.com/book/10.1007/978-0-85729-021-2) by Manfred and Thomas, under the supervison of [Prof. Dejun Feng](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng). 
 In the future, I intend to post here, my notes and reflections on what I have read so far.
 
+<hr><br>
+
 ### မြန်မာနဲ့သင်္ချာ (ongoing)
 *Supervisor - [Me, myself and I](https://snark-graphique.github.io/)*  
   
-I ocassionally write articles for the Burmese audience on several results that had fascinated me when I first learned mathematics 
+I ocassionally write articles for the Burmese audience and post them on Facebook (aka Burmese google). 
+These include several results that fascinated me when I first learned mathematics 
 outside of the standard high school curriculum. See details on [မြန်မာနဲ့သင်္ချာ]({{ site.baseurl }}{% link mmmath.md %}).
+
+<hr><br>
 
 ### YouTube
 *Channel - [Snarky Math](https://www.youtube.com/@SnarkyMath)*  
@@ -44,3 +51,5 @@ outside of the standard high school curriculum. See details on [မြန်မ�
 I have created some YouTube videos in the past, the first one being due to [*The Summer of Math Exposition*](https://www.3blue1brown.com/blog/some1) 
 hosted by 3Blue1Brown. I haven't posted in a while, but I do have some topics in mind for future videos. 
 Maybe one day, when I am motivated for videos again, I will create more YouTube videos.
+
+<hr><br>
