@@ -31,7 +31,9 @@ The following are some of the notes I have written for my presentations during t
   
 During the above undergraduate research opportunity project, I was curious about the 
 proof of Szemerédi's theorem for AP-free sets in $\mathbb{Z}$. 
-With my current interest in exploring more analysis, I am reading through [*Ergodic Theory: with a view towards Number Theory*](https://link.springer.com/book/10.1007/978-0-85729-021-2) by Manfred and Thomas, under the supervison of [Prof. Dejun Feng](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng). 
+With my current interest in exploring more analysis (and its applications to combinatorics), 
+I am reading through [*Ergodic Theory: with a view towards Number Theory*](https://link.springer.com/book/10.1007/978-0-85729-021-2) 
+by Manfred and Thomas, under the supervison of [Prof. Dejun Feng](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng). 
 In the future, I intend to post here, my notes and reflections on what I have read so far.
 
 <hr><br>

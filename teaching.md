@@ -22,26 +22,27 @@ The name is self-explanatory. The content is just common problem solving techniq
 in olymmpiad combinatoircs such as the use of invariants, repeat-until-stuck algorithms, 
 double counting and basic graph theory.
 
-- [**Euclidiad Level 1 (Junior) Short Course in Combinatorics**]({{ site.baseurl }}{% link _posts/teaching/2022-07-01-euclidiad-one-combi.md %})  
+- [**Euclidiad Level 1 (Junior) Short Course in Combinatorics and Geometry**]({{ site.baseurl }}{% link _posts/teaching/2022-07-01-euclidiad-one-combi.md %})  
 *2022 July*  
-A very basic course on elementary counting oriented towards entry level olympiads 
-such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers standard material 
+A very basic course on topics oriented towards entry level olympiads 
+such as AMC8/10, SASMO/SEAMO and junior level MOMC. Combinatorics part of course covers standard material 
 in elementary counting such as multiplication and addition principles in counting, permutations 
-and combinations considered with or without repetitions. However, the problems are 
-oriented more towards problem-solving rather than high school material.
+and combinations considered with or without repetitions. The geometry part includes 
+basic concepts in Euclidean geometry with emphasis on computations, which includes 
+angles in polygons, length-chasing with right triangles, relations between area and length ratios, etc. 
+However, the problems are oriented more towards problem-solving rather than high school material.
 
-- **Euclidad Level 1 (Junior) Short Course on Geometry**  
-*2022 July*  
-A very basic course on elementary Euclidean geometry oriented towards entry level olympiads 
-such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers basic concepts in 
-Euclidean geometry with emphasis on computations. The contents include angles in polygons, 
-length-chasing with right triangles, relations between area and length ratios.
-
-- **Euclidad Level 2 (Senior) Short Course on Combinatorics and Number Theory**  
-*2021 Janurary - February*  
-Description
+- **Euclidiad Level 2 (Senior) Short Course on Combinatorics and Number Theory**  
+*2021 Jaunrary - February*  
+A basic course on topics oriented towards entry level senior olympiads 
+such as AMC10/12, AIME and senior level MOMC. Combinatorics part of course covers standard material 
+in elementary counting such as permutations and combinations considered with or without repetitions. 
+The number theory part covers the basics of modular arithmetic, the Chinese Remainder Theorem and 
+the Euclidean application with equal emphasis on proofs and computations. 
+The problems are oriented more towards problem-solving rather than standard material.
 
 - **Intensive Training for 2020 Myanmar IMO Team**  
 *2020 August*  
-Description
+A short training for the 2020 Myanmar IMO Team organized by the mathematical society of 
+Myanmar. This training was a bit ad-hoc due to several uncertainties during COVID. 
 

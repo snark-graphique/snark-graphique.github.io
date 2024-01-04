@@ -3,11 +3,10 @@ layout: post
 title: MSM December Training (Combinatorics)
 ---
 <p>
-    Listed below are courses that I have taught during olympiad trainings organzied 
-    by the mathematical society of Myanmar and short trainings given by the Euclidiad 
-    mathematics organization. All the slides are in English, but notes and videos 
-    are mostly in Burmese. I will be grateful to receive feedbacks and suggestions 
-    regarding my teaching, lecture-plans, typsetting, and basically everything teaching-oriented. 
+    A short training organized by the mathematical society of Myanmar (MSM) for 
+    senior (Grade 10-11) students qualified for Myanamar national olympiads (now called MOMC). 
+    Contents include recurrence relations, recursive algorithms, counting with bijections, and 
+    proving combinatorial identities. 
 </p>
 
 <ul>

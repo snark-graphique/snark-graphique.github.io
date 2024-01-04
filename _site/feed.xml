@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-04T03:24:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hein Thant Aung</title><subtitle>Homepage</subtitle><entry><title type="html">MSM December Training (Combinatorics)</title><link href="http://localhost:4000/2023/12/28/msm-december-training.html" rel="alternate" type="text/html" title="MSM December Training (Combinatorics)" /><published>2023-12-28T00:00:00+08:00</published><updated>2023-12-28T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/28/msm-december-training</id><content type="html" xml:base="http://localhost:4000/2023/12/28/msm-december-training.html">&lt;p&gt;
-    Listed below are courses that I have taught during olympiad trainings organzied 
-    by the mathematical society of Myanmar and short trainings given by the Euclidiad 
-    mathematics organization. All the slides are in English, but notes and videos 
-    are mostly in Burmese. I will be grateful to receive feedbacks and suggestions 
-    regarding my teaching, lecture-plans, typsetting, and basically everything teaching-oriented. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-04T12:48:05+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hein Thant Aung</title><subtitle>Homepage</subtitle><entry><title type="html">MSM December Training (Combinatorics)</title><link href="http://localhost:4000/2023/12/28/msm-december-training.html" rel="alternate" type="text/html" title="MSM December Training (Combinatorics)" /><published>2023-12-28T00:00:00+08:00</published><updated>2023-12-28T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/28/msm-december-training</id><content type="html" xml:base="http://localhost:4000/2023/12/28/msm-december-training.html">&lt;p&gt;
+    A short training organized by the mathematical society of Myanmar (MSM) for 
+    senior (Grade 10-11) students qualified for Myanamar national olympiads (now called MOMC). 
+    Contents include recurrence relations, recursive algorithms, counting with bijections, and 
+    proving combinatorial identities. 
 &lt;/p&gt;
 
 &lt;ul&gt;
@@ -27,7 +26,7 @@
         &lt;a href=&quot;https://youtu.be/8k9TS9lvhEk&quot;&gt;Day 2&lt;/a&gt;, 
         &lt;a href=&quot;https://youtu.be/8XtcyaFFrRg&quot;&gt;Day 3&lt;/a&gt;.
     &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Listed below are courses that I have taught during olympiad trainings organzied by the mathematical society of Myanmar and short trainings given by the Euclidiad mathematics organization. All the slides are in English, but notes and videos are mostly in Burmese. I will be grateful to receive feedbacks and suggestions regarding my teaching, lecture-plans, typsetting, and basically everything teaching-oriented.</summary></entry><entry><title type="html">Testing Stuff</title><link href="http://localhost:4000/2023/09/09/testing.html" rel="alternate" type="text/html" title="Testing Stuff" /><published>2023-09-09T16:59:33+08:00</published><updated>2023-09-09T16:59:33+08:00</updated><id>http://localhost:4000/2023/09/09/testing</id><content type="html" xml:base="http://localhost:4000/2023/09/09/testing.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">A short training organized by the mathematical society of Myanmar (MSM) for senior (Grade 10-11) students qualified for Myanamar national olympiads (now called MOMC). Contents include recurrence relations, recursive algorithms, counting with bijections, and proving combinatorial identities.</summary></entry><entry><title type="html">Testing Stuff</title><link href="http://localhost:4000/2023/09/09/testing.html" rel="alternate" type="text/html" title="Testing Stuff" /><published>2023-09-09T16:59:33+08:00</published><updated>2023-09-09T16:59:33+08:00</updated><id>http://localhost:4000/2023/09/09/testing</id><content type="html" xml:base="http://localhost:4000/2023/09/09/testing.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Let \(\mu\) be a \(\sigma\)-finite measure on \(X\). 
@@ -66,13 +65,13 @@ Then, there exists \(f \in L^1(\mu)\) such that
 \[
   \lambda(E) = \int_E f \,d\mu
 \]
-for all measurable sets \(E\).&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Update 2.</summary></entry><entry><title type="html">Euclidiad Level 1 (Junior) Short Course in Combinatorics</title><link href="http://localhost:4000/2022/07/01/euclidiad-one-combi.html" rel="alternate" type="text/html" title="Euclidiad Level 1 (Junior) Short Course in Combinatorics" /><published>2022-07-01T00:00:00+08:00</published><updated>2022-07-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/07/01/euclidiad-one-combi</id><content type="html" xml:base="http://localhost:4000/2022/07/01/euclidiad-one-combi.html">&lt;p&gt;A very basic course on elementary counting oriented towards entry level olympiads 
+for all measurable sets \(E\).&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Update 2.</summary></entry><entry><title type="html">Euclidiad Level 1 (Junior) Short Course in Combinatorics and Geometry</title><link href="http://localhost:4000/2022/07/01/euclidiad-one-combi.html" rel="alternate" type="text/html" title="Euclidiad Level 1 (Junior) Short Course in Combinatorics and Geometry" /><published>2022-07-01T00:00:00+08:00</published><updated>2022-07-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/07/01/euclidiad-one-combi</id><content type="html" xml:base="http://localhost:4000/2022/07/01/euclidiad-one-combi.html">&lt;p&gt;A very basic course on elementary counting oriented towards entry level olympiads 
 such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers standard material 
 in elementary counting such as multiplication and addition principles in counting, permutations 
 and combinations considered with or without repetitions. However, the problems are 
 oriented more towards problem-solving rather than high school material.&lt;/p&gt;
 
-&lt;h3 id=&quot;lecture-slides-and-videos&quot;&gt;Lecture Slides and Videos&lt;/h3&gt;
+&lt;h3 id=&quot;combinatorics-lecture-slides-and-videos&quot;&gt;Combinatorics: Lecture Slides and Videos&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Lesson 1 - Basic Counting Principles:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson1%20-%20basic%20principles.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Video 1 - Lesson 1 on Steroids:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video1%20-%20lesson%201%20on%20steroids.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/Qalo2BRBKP0&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
@@ -86,13 +85,34 @@ oriented more towards problem-solving rather than high school material.&lt;/p&gt
   &lt;li&gt;&lt;em&gt;Video 5 - Review:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video5%20-%20review.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/V1gmVRIeILo&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;assignments&quot;&gt;Assignments&lt;/h3&gt;
+&lt;h3 id=&quot;combinatorics-assignments&quot;&gt;Combinatorics: Assignments&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Homework 1:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/mjFfSJ3KiKfueBtMA&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Homework 2:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/T4EJLgyvvDQDVnbg8&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Homework 3:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/zoXQMXYbCynT1XPXA&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Homework 4:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/m7WcmbTew6VE7ZQD8&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Homework 5:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/2oscwCNTaWQuoMQ98&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;geometry-lecture-slides-and-videos&quot;&gt;Geometry: Lecture Slides and Videos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 1 - Areas and Ratios:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson1-area.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 1 - Extra Problems on Areas:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video1-extra-area.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/XumyTWNKPJk&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 2 - Angles in Lines and Polygons:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson2-angle.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 2 - Extra Problems on Angles:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video2-extra-angle.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/zg9myxBuA2E&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 3 - Right Triangles:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson3-pythagoras.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Video 3 - More on Right Triangles:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/video3-extra-pythagoras.pdf&quot;&gt;slides pdf&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=0ZOc27sCfLo&quot;&gt;video link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 4 - Ratios and Similarity:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson4-ratio.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lesson 5 - Triangle Congruence:&lt;/em&gt; &lt;a href=&quot;/files/teaching/euclidiad-level-one/lesson5-congruence.pdf&quot;&gt;slides pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;geometry-assignments&quot;&gt;Geometry: Assignments&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Homework 1:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/TTyTJrm5gwQtDpcG7&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 2:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/RGrk9fyCoKCxdKA58&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 3:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/bDahALxvaguoK1RRA&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 4:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/59KvkU3QexnpPHCx7&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homework 5:&lt;/em&gt; &lt;a href=&quot;https://forms.gle/yzMzhENyAqVLkfaE8&quot;&gt;form link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">A very basic course on elementary counting oriented towards entry level olympiads such as AMC8/10, SASMO/SEAMO and junior level MOMC. This course covers standard material in elementary counting such as multiplication and addition principles in counting, permutations and combinations considered with or without repetitions. However, the problems are oriented more towards problem-solving rather than high school material.</summary></entry><entry><title type="html">Intensive Training for 2022 Myanmar IMO Team (Combinatorics)</title><link href="http://localhost:4000/2022/06/30/imo-2022-training.html" rel="alternate" type="text/html" title="Intensive Training for 2022 Myanmar IMO Team (Combinatorics)" /><published>2022-06-30T00:00:00+08:00</published><updated>2022-06-30T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/30/imo-2022-training</id><content type="html" xml:base="http://localhost:4000/2022/06/30/imo-2022-training.html">&lt;p&gt;The name is self-explanatory. The content is just common problem solving techniques 
 in olymmpiad combinatoircs such as the use of invariants, repeat-until-stuck algorithms, 
 double counting and basic graph theory.&lt;/p&gt;
