@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-Here are notes on the projects I (have done)/(am doing) formally, informally or personally. 
+Here are the projects I have done in the past, or the ones that I am doing 
+whether they are formally/informally or professional/personal. 
 
 ### The Capset Problem
 *Supervisor - [Dr. Li Chun Che](https://www.math.cuhk.edu.hk/people/academic-staff/charlesli)*  
