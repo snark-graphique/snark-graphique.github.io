@@ -10,7 +10,7 @@ title: Home
   <hr>
   <br>
     I am a year 3 undergrad at the Chinese University of Hong Kong (CUHK) studying mathematics. 
-    I am currently hooked into extremal combinatorics, and applications of analysis in combinatorics. 
+    I am currently hooked into combinatorics, and applications of analysis in combinatorics. 
     Please find my CV <a href="/files/heinta_CV.pdf"> here</a>.
     <br>
 
