@@ -6,7 +6,6 @@ permalink: /mmmath
 <div class="burmese-alert">
     <b>Dear curious non-Burmese visitors,</b> 
     this page is obviously intended for the Burmese audience. 
-    When it comes to natural sciences, literature written in Burmese is rarer than gold. 
     Most of the available Burmese books and articles in mathematics beyond high school are often just a collage of 
     facts and terminologies cramped in a <q>popular science</q> style with no pinch of logical rigour whatsoever. 
     This, together with the <a href="https://www.ef.com/wwen/epi/regions/asia/myanmar/" target="_blank" rel="noopener noreferrer">language barrier</a> usually hides 

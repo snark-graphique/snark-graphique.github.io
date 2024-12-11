@@ -27,7 +27,7 @@ The following are some of the notes I have written for my presentations during t
 
 <hr><br>
 
-### Reading Project on Ergodic Theory (ongoing)
+### Short Reading Project on Ergodic Theory
 *Supervisor - [Prof. Feng Dejun](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng)*  
   
 During the above undergraduate research opportunity project, I was curious about the 
@@ -35,12 +35,17 @@ proof of Szemerédi's theorem for AP-free sets in $\mathbb{Z}$.
 With my current interest in exploring more analysis (and its applications to combinatorics), 
 I am reading through [*Ergodic Theory: with a view towards Number Theory*](https://link.springer.com/book/10.1007/978-0-85729-021-2) 
 by Manfred and Thomas, under the supervison of [Prof. Dejun Feng](https://www.math.cuhk.edu.hk/people/academic-staff/djfeng). 
-In the future, I intend to post here, my notes and reflections on what I have read so far.
 
 <hr><br>
 
-### မြန်မာနဲ့သင်္ချာ (ongoing)
-*Supervisor - [Me, myself and I](https://snark-graphique.github.io/)*  
+### COSINE Summer Research Exchange Program
+*Supervisor - [Prof. Po Lam Yung](https://maths.anu.edu.au/people/po-lam-yung)*
+
+To be updated
+
+<hr><br>
+
+### မြန်မာနဲ့သင်္ချာ
   
 I ocassionally write articles for the Burmese audience and post them on Facebook (aka Burmese google). 
 These include several results that fascinated me when I first learned mathematics 
@@ -50,7 +55,7 @@ outside of the standard high school curriculum. See details on [မြန်မ�
 
 ### YouTube
 *Channel - [Snarky Math](https://www.youtube.com/@SnarkyMath)*  
-  
+
 I have created some YouTube videos in the past, the first one being due to [*The Summer of Math Exposition*](https://www.3blue1brown.com/blog/some1) 
 hosted by 3Blue1Brown. I haven't posted in a while, but I do have some topics in mind for future videos. 
 Maybe one day, when I am motivated for videos again, I will create more YouTube videos.
