@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="introduction">
   <div class="profile-pic">
-    <img src="/assets/images/HTA1.jpeg" width="300px">
+    <img src="/assets/images/HTA1.webp" width="300px">
   </div>
   <div>
   <hr>
