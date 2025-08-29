@@ -43,7 +43,6 @@ by Manfred and Thomas, under the supervison of [Prof. Dejun Feng](https://www.ma
 
 To be updated
 
-<hr><br>
 
 ### မြန်မာနဲ့သင်္ချာ
   

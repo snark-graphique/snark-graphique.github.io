@@ -6,7 +6,7 @@
 layout: mainpage
 ---
 <head>
-    <meta http-equiv="Refresh" content="0; url='http://snark-graphique.github.io/home.html'" />
+    <meta http-equiv="Refresh" content="0; url='home.html'" />
 </head>
 <body>
   Redirecting to my homepage.
